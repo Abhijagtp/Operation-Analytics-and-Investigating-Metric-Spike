@@ -1,10 +1,10 @@
 # Operation-Analytics-and-Investigating-Metric-Spike : 
 The project is focused on Operation Analytics and Investigating Metric Spike using advanced SQL. The project aims to analyze the complete end-to-end operations of company, with the help of which the company can then find the areas that need improvement. The data collected is used to predict the overall growth or decline of a company's fortune, resulting in better automation, better understanding between cross-functional teams, and more effective workflows
 
-A P P R O A C H
+APPORACH:
 To execute the project, I firstly collected and analyzed the relevant data sets and tables provided by the company. I then applied advanced SQL queries to derive insights and answer the questions asked by different departments.
 
-T E C H- S TA C K U S E D
+TECH STACK USED :
 • My SQL workbench
 • Mode analytics ( Mode is a collaborative data platform that combines SQL, R, Python, and visual analytics in one place. Connect, analyze, and share, faster)
 
